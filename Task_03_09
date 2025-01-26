@@ -23,7 +23,7 @@ namespace Task_03_09
 
                 countYear++;
 
-                Console.WriteLine("Hello, World!");
+                Console.WriteLine($"Через {countYear}  оборотов Земли вокруг Солнца вклад составит не менее {y}руб.");
             }
         }
     }
